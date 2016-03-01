@@ -1,0 +1,19 @@
+:local(.styles) {
+  position: relative;
+
+  padding: 50px 0;
+
+  h1 {
+    font-weight: bold;
+    margin-bottom: 40px;
+  }
+  .drop-file {
+    margin: 0 auto;
+    margin-bottom: 40px;
+    padding: 60px 0;
+    width: 400px;
+    border: 4px dashed #dfdfdf;
+    color: #afafaf;
+    cursor: pointer;
+  }
+}
